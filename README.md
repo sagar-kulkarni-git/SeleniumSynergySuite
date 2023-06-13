@@ -1,6 +1,8 @@
 # SeleniumSynergySuite
 
-[![Repo Image](repo_image.png)](https://github.com/sagar-kulkarni-git/SeleniumSynergySuite)
+<p align="center">
+  <img src="images/SeleniumSynergySuite.jpg" alt="Repository Image" width="25%" />
+</p>
 
 This repository contains a comprehensive test automation framework built with Selenium WebDriver, Java, Cucumber, and JUnit. The framework is designed to facilitate the creation and execution of automated tests for web applications, allowing for efficient and reliable software testing.
 
